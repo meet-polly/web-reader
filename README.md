@@ -1,4 +1,8 @@
-# 🦜 MeetPolly.app — Feedback & Issues
+<p align="center">
+  <img src="polly-logo.png" alt="Polly logo" width="160">
+</p>
+
+# MeetPolly.app — Feedback & Issues
 
 This is the public issue tracker for **Polly**, a browser-only EPUB reader and
 language-learning app. Upload an EPUB, read with paginated rendering, tap words
